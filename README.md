@@ -1,4 +1,4 @@
-#Global Solution - SmartWatts
+# Global Solution - SmartWatts
 
 #Integrantes
 RM551191 - Diego Mascarenhas Santos (2TDSPV)
@@ -12,7 +12,7 @@ RM550981- Henrique Gerson Costa Correia (2TDSPV)
 RM99985 - Felipe Batista Gregorio (2TDSPY)
 
 
-#Descrição do problema a Resolver
+# Descrição do problema a Resolver
 
 O consumo excessivo de energia elétrica nas residências brasileiras não impacta apenas o orçamento
 familiar com contas de valores elevados, mas também traz consequências ambientais significativas.
@@ -24,7 +24,7 @@ altera o curso dos rios, afetando o ecossistema aquático e provocando mudanças
 espécies locais. Esses efeitos reforçam a importância de ações que reduzam o consumo energético
 em escala doméstica.
 
-#Solução
+# Solução
 
 A solução proposta é uma ferramenta que permite aos usuários monitorar seu consumo de energia
 elétrica mensalmente, oferecendo dicas que promovem o uso consciente. Através da aplicação, o
