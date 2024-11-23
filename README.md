@@ -1,6 +1,7 @@
 # Global Solution - SmartWatts
 
-#Integrantes
+# Integrantes
+
 RM551191 - Diego Mascarenhas Santos (2TDSPV)
 
 RM98482 - Sarah Oliveira Souza Rosa (2TDSPV)
