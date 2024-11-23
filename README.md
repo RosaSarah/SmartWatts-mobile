@@ -35,3 +35,6 @@ identificar padrões de aumento no consumo e fornece informações para a adoç�
 eficientes e sustentáveis. Com isso, o usuário não apenas reduz suas despesas mensais, mas também
 contribui para a preservação ambiental, diminuindo a pressão sobre a necessidade de expansão da
 infraestrutura de geração de energia.
+
+# Vídeo da aplicação
+https://youtu.be/xDYq0tFN9Yg
