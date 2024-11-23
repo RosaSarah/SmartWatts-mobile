@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fundo da Splash Screen -->
+    <item android:drawable="@color/white" /> <!-- Substitua pela cor desejada -->
+
+    <!-- Logotipo central -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/splash" /> <!-- Substitua pelo seu recurso de imagem -->
+    </item>
+</layer-list>

@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.SmartWatts.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/white</item> <!-- Apenas cor de fundo -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
